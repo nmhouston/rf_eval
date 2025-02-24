@@ -18,6 +18,9 @@ Each record in these files represents a stanza of a poem. Each contains:
  
 Unfortunately, the POEM tags used in the corpus are not distinctively numbered for different texts (the numbering restarts at zero for each poet), so each chronological file contains records for stanzas from several different poems that are all labeled "POEM0".  
 
+## Data preparation and naming conventions
+To work with the raw text files downloaded from the Reddy repo, I renamed them as .txt files and changed the dot to an underscore, so 1415.pgold became 1415_pgold.txt. I followed this naming convention throughout the workflow so that each transformation or analysis can be easily linked with related files. 
+
 ## Errors discovered in the gold standard corpus
 While working with this data, I discovered errors in 101 entries in the Reddy and Sonderegger gold standard corpus, which comprises 11613 entries representing individual stanzas from poems. I was able to edit one entry and had to remove 100 of them from my evaluation because it was unclear what the correct data should be for those entries.  
 

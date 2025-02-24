@@ -1,0 +1,57 @@
+textid,poem,endwords,goldvector,rfnum,ltrvec,perf,throw_out
+888,POEM27,pains strains began man end friend moves groves pursue view involves resolves,1 1 1 2 2 3 3,1 1 2 2 3 3 4 4 5 5 6 6,A A B B C C D D E E F F,0 0 1 1 1 0 0 0 1 0 0 0,1
+889,POEM27,way stray delight endite,1 1 2 2 3 3,1 1 2 2,A A B B,1 1 1 1,1
+890,POEM27,repair care impart divert,1 1 2 2 2,1 1 2 2,A A B B,1 1 1 0,1
+891,POEM27,vein strain pain fails tales,1 1 2 2 2 3 3,1 1 1 2 3,A A A B C,1 1 1 0 0,1
+892,POEM27,skies cries despise stage rage arts parts,1 1,1 1 1 2 2 3 3,A A A B B C C,0 0 0 1 1 0 0,1
+893,POEM27,bestow flow horse force down town,1 1 2 2 3 3 4 4 5 5,1 1 2 2 3 3,A A B B C C,1 1 1 1 1 1,1
+895,POEM27,repair air smart heart dart reigns plains,1 1 1,1 1 2 2 2 3 4,A A B B B C D,1 1 1 1 1 0 0,1
+897,POEM27,dreams streams keep sleep thoughts faults provoke stroke spite write,1 1 1 2 2 3 3,1 1 2 2 3 4 5 5 6 6,A A B B C D E E F F,0 0 1 1 0 0 1 1 1 1,1
+898,POEM27,supply reply dry swarm warm,1 1 2 2,1 1 1 2 2,A A A B B,1 1 1 1 1,1
+899,POEM27,reserve starve carve,1 1 2 2 3 3 4 4 5 5 6 6 6,1 1 1,A A A,1 0 0,1
+900,POEM27,ease please,1 1 2 2 3 3 4 4 5 5,1 1,A A,1 1,1
+901,POEM27,reigns gains maintains goes knows possest rest,1 1 2 2 3 3 4 4 4,1 2 2 3 4 5 5,A B B C D E E,0 0 0 0 0 1 1,1
+902,POEM27,task ask told old,1 1 2 2 3 3 4 4 5 5 6 6 7 7,1 1 2 2,A A B B,1 1 1 1,1
+903,POEM27,skill fill defend attend curs furrs divides decides fold old advice trice ice,1 1 2 2 3 3,1 1 2 2 3 4 5 5 6 6 7 7 7,A A B B C D E E F F G G G,1 1 1 1 0 0 1 1 1 1 1 1 1,1
+904,POEM27,brain retain rank bank took broke supplyd cryd ill kill,1 1 2 2 3 3 4 4 5 5 6 6,1 1 2 2 3 3 4 4 5 5,A A B B C C D D E E,1 1 1 1 1 0 0 0 1 1,1
+905,POEM27,replies eyes left bereft sent prevent harm warm arm,1 1 2 2,1 2 3 3 4 4 5 5 5,A B C C D D E E E,0 0 1 1 1 1 1 1 1,1
+906,POEM27,true ensue gains plains defame blame erects protects prepares appears extream theme persist chest,1 1 2 2 2,1 1 2 2 3 3 4 4 5 5 3 3 6 7,A A B B C C D D E E C C F G,1 1 0 0 1 1 0 0 1 0 0 0 1 1,1
+907,POEM27,day display find designd recess peace,1 2 1 2 3 4 3 4,1 1 2 3 4 5,A A B C D E,1 1 1 0 1 1,1
+908,POEM27,delight night invite joys eyes cries part heart times crimes please ease,1 2 1 2,1 1 1 2 3 4 5 5 6 6 7 7,A A A B C D E E F F G G,1 1 1 0 0 0 1 1 1 1 1 1,1
+909,POEM27,rejoins designs prizd despisd,1 2 1 2 3 3 4 4 5 5,1 2 3 4,A B C D,0 0 0 0,1
+910,POEM27,see me return mourn born,1 2 3 1 3 2 4 5 4 5,1 1 2 2 2,A A B B B,1 0 1 0 0,1
+911,POEM28,admires praise inspires ways convey outdone day begun,1 2 2 1,1 2 1 2 3 4 3 4,A B A B C D C D,0 1 0 1 1 1 1 0,1
+912,POEM28,taste contend last end,1 1 2 2 3 4 3 4 4 3,1 2 1 2,A B A B,1 1 0 1,1
+913,POEM28,law mind draw confind care despair owe flow been win,1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8,1 2 1 2 3 3 4 4 5 5,A B A B C C D D E E,1 1 1 1 1 1 0 0 1 0,1
+914,POEM28,brain awakes depends vain lends takes ties impose eyes bestows,1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10,1 2 3 1 3 2 4 5 6 5,A B C A C B D E F E,1 0 1 1 1 0 0 1 0 1,1
+915,POEM28,return gave have borne,1 1 1,1 2 2 3,A B B C,1 1 1 0,1
+916,POEM28,score restore debt set light taught slight ought thought requite,1 1 2 2 3 3 4 4 4 5 5,1 1 2 2 3 4 3 4 4 3,A A B B D E D E E D,1 1 0 1 1 1 1 1 1 0,1
+917,POEM29,cease peace follow apollo rhimes times praise bays demand tannd allow brow writ wit pursue you,1 1 2 2 3 3 4 4 5 5,1 1 2 2 3 3 4 4 5 6 2 2 7 7 8 9,A A B B C C D D E F B B G G H I,1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0,1
+918,POEM29,mean queen age engage declare fair use abuse undermine join aim claim desert heart gaind maintaind she me charms terms,1 1 2 2 3 3 4 4 5 5 5,1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 11,A A B B C C D D E E F F G G H H I I J K,1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 0 0,1
+919,POEM29,told old hold,1 1 2 2 3 3 4 4 5 5,1 1 1,A A A,1 1 1,1
+920,POEM29,beguiles smiles controul soul art heart inspires fires admires pain brain,1 1 2 2 3 3 4 4 4,1 1 2 2 3 3 4 4 4 5 5,A A B B C C D D D E E,0 0 1 1 1 1 0 0 0 1 1,1
+1733,POEM31,sway obey rely fly sky speed steed fatrely fly sky speed steed fate great son throne,1 1 2 2 3 2 3,1 1 2 2 2 3 3 2 2 2 3 3 4 4 5 5,A A B B B C C B B B C C D D E E,1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0,1
+1734,POEM31,above jove nassaustar appear night mariner light,1 1 2 2 3 3 4 4 5 5 6 6,1 1 2 2 3 4 3,A A B B C D C,1 1 1 0 1 0 1,1
+1735,POEM31,friend end avail sail began man cares years alarms arms snows foes,1 1 1,1 1 2 2 3 3 4 4 5 5 6 7,A A B B C C D D E E F G,1 1 1 1 1 1 1 0 0 0 0 0,1
+1736,POEM31,engage rage age,1 1 2 2 3 3 3,1 1 1,A A A,1 1 1,1
+1737,POEM31,power hour deed decreed chance lance dance,1 1 2 2 3 3 4 4 5 5 6 6,1 1 2 2 3 3 3,A A C C D D D,0 1 1 1 1 1 1,1
+1738,POEM31,age rage charms arms bloom tomb plead head died hyde tread led,1 1 2 2 3 3 4 4,1 1 2 2 3 3 4 4 5 6 4 4,A A B B C C D D E F D D,1 1 0 0 1 0 1 1 0 0 1 0,1
+1740,POEM31,way sea wave grave peace ease bring spring,1 1 2 2,1 1 2 2 3 3 4 4,A A B B C C D D,1 0 1 1 1 1 1 1,1
+1741,POEM31,hour power will kill,1 1 2 2 2,1 1 2 2,A A B B,1 0 1 1,1
+1742,POEM31,treads heads main pain reign,1 1 2 2 3 3 4 4,1 1 2 2 2,A A B B B,0 0 1 1 1,1
+1743,POEM31,stood flood mourn return care war fears years,1 1 2 2,1 1 2 2 3 3 4 4,A A B B C C D D,1 1 0 1 1 0 0 0,1
+1744,POEM31,decree see come doom,1 1 2 2 3 3,1 1 2 3,A A B C,1 1 1 1,1
+1745,POEM31,obeyd spread cries replies below go,1 1 2 2,1 2 3 3 4 4,A B C C D D,0 1 0 0 1 1,1
+1746,POEM31,leads meads shores deplores,1 1 2 2 3 3 3,1 1 2 2,A A B B,0 0 0 0,1
+1747,POEM31,hand sand grave receive throw biow bough,1 1 2 2 3 3 4 4,1 1 2 3 4 5 4,A A B C D E D,1 1 1 1 1 0 1,1
+1748,POEM31,life strife power hour thou now see thee,1 1 2 2 3 3,1 1 2 2 3 3 4 4,A A B B D D E E,1 1 0 1 0 0 1 1,1
+1749,POEM31,light night earth birth power hour,1 1 2 2 3 3 4 4,1 1 2 2 3 3,A A B B C C,1 1 1 1 0 1,1
+1750,POEM31,run sun heaven given implore more express peace,1 1 2 2 3 3,1 1 2 2 3 3 4 5,A A B B C C D E,1 1 1 1 1 1 1 1,1
+1751,POEM31,frame same prove love require desire,1 1 1,1 1 2 2 3 3,A A B B C C,1 1 1 1 0 1,1
+1752,POEM31,obey away sway,1 1 2 2 3 3,1 1 1,A A A,1 1 1,1
+1753,POEM31,bear war spains reigns shower power,1 1 2 2,1 2 3 4 1 1,A B C D A A,1 1 0 0 0 0,1
+1756,POEM31,sate fate excel well,1 1 1,1 1 2 2,A A B B,1 1 0 0,1
+1757,POEM31,dispose woes rose,1 1 2 2 3 3 4 4 5 5,1 1 1,A A A,1 1 1,1
+1758,POEM31,sing king boast cost lay day hand command praise raise,1 1 2 2 2 3 3,1 1 2 2 3 3 4 4 5 5,A A B B C C D D E E,1 1 1 1 1 1 1 1 1 1,1
+1759,POEM31,brought fault shone done sun fight right,1 1 2 2 3 3 4 4 5 5 6 6,1 2 3 3 3 4 4,A B C C C D D,1 1 1 1 0 1 1,1
+1760,POEM31,nine rhine arnheim rhyme efforts wurts complain campaign savd retrievd vein eugene,1 1 2 2 3 3 4 4,1 1 2 3 4 5 6 6 7 8 6 9,A A B C D E F F G H F I,1 1 0 0 0 0 1 1 0 0 1 1,1

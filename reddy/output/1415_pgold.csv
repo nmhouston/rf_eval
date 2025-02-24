@@ -1,0 +1,198 @@
+textid,words,sylls,ltrvec,perf,isrhymed
+1,alway say man diligently apply can,ay ay an y y an,A A B C C B,1 1 1 1 1 1,1
+2,wise enterprise faculty will skill thrive,ise ise y ill ill ive,A A B C C D,1 1 1 1 1 1,1
+3,left craft shone shall fall done,eft aft one all all one,A B C D D C,1 1 1 1 1 1,1
+4,draper paper school butler cutler fool,er er ool er er ool,A A B A A B,0 0 1 0 0 1,1
+5,trot wot cup physic sick up,ot ot up ic ick up,A A B C C B,1 1 1 0 0 1,1
+6,law saw sell rise merchandise well,aw aw ell ise ise ell,A A B C C B,1 1 1 1 1 1,1
+7,eke seek may suit dispute away,eke eek ay uit ute ay,A B C D D C,0 1 1 0 0 1,1
+8,law straw man strife life whan,aw aw an ife ife an,A A B C C B,1 1 1 1 1 1,1
+9,hatter smatter philosophy pedlar meddler theology,er er y ar er y,A A B C A B,0 0 1 1 0 1,1
+10,ensue new cast evermore therefore last,ue ew ast ore ore ast,A A B C C B,1 1 1 1 1 1,1
+11,tried verified late was pass pate,ied ied ate as ass ate,A A B C D B,0 0 1 1 1 1,1
+12,would could frere will fell hear,ould ould ere ill ell ear,A A B C D B,1 1 1 1 1 1,1
+13,so ago died pound round aside,o o ied ound ound ide,A A B C C B,1 1 0 1 1 0,1
+14,would gold withal suffice thrice small,ould old al ice ice all,A A B C C B,1 1 1 1 1 0,1
+15,day say certes cast last less,ay ay ertes ast ast ess,A A B C C D,1 1 0 1 1 1,1
+16,man began employ certainly policy joy,an an oy y y oy,A A B C C B,1 1 1 1 1 1,1
+17,blast overcast mischance wile beguile substance,ast ast ance ile uile ance,A A B C C B,1 1 1 1 0 1,1
+18,out doubt purvey whit wit way,out oubt ey it it ay,A A B C C B,1 1 1 1 1 1,1
+19,well deal pot thought nought not,ell eal ot ought ought ot,A A B C C B,1 0 1 1 1 1,1
+20,fain again cup by covetously fairlyup,ain ain up y y yup,A A B C C D,1 1 1 1 1 0,1
+21,breast best inclose well fell lose,east est ose ell ell ose,A A B C C B,1 0 1 1 1 1,1
+22,then men merchandise it it wise,en en ise it it ise,A A B C C B,1 1 1 1 1 1,1
+23,gear wear spent nice price miscontent,ear ear ent ice ice ent,A A B C C B,1 1 1 1 1 1,1
+24,sport resort company play day merrily,ort ort y ay ay y,A A B C C B,1 1 1 1 1 1,1
+25,sworn born hour he degree honour,orn orn our e ee our,A A B C C B,1 1 1 1 1 1,1
+26,doubt out fair strait wait mayr,oubt out air ait ait ayr,A A B C C D,1 1 1 1 1 0,1
+27,doubtless meekness pride go so aside,ess ess ide o o ide,A A B C C B,1 1 1 1 1 1,1
+28,cathrine line tide devotion promotion abide,ine ine ide ion ion ide,A A B C C B,1 1 1 0 0 1,1
+29,fast past many debt get penny,ast ast y ebt et y,A A B C C B,1 1 1 0 1 1,1
+30,stout out hedge twain fain pledge,out out edge ain ain edge,A A B C C B,1 1 1 1 1 1,1
+31,there fear thither fain again whither,ere ear er ain ain er,A A A B B A,1 1 0 1 1 0,1
+32,this his abode lay alway abroad,is is ode ay ay oad,A A B C C B,1 1 1 1 1 1,1
+33,than man to officer enquire do,an an o er uire o,A A B C D B,1 1 1 0 0 1,1
+34,ansred afraid therefore behest rest more,ed aid ore est est ore,A A B C C B,1 0 1 1 1 1,1
+35,he be out said afraid about,e e out aid aid out,A A B C C B,1 1 1 1 1 1,1
+36,game same ure sake bake cure,ame ame ure ake ake ure,A A B C C B,1 1 1 1 1 1,1
+37,both goth officer day array frere,oth oth er ay ay ere,A A B C C D,1 1 0 1 1 1,1
+38,dight might deny dookd lookd religiously,ight ight y ookd ookd y,A A B C C B,1 1 1 0 0 1,1
+39,glass pass peerd pride side frerd,ass ass eerd ide ide erd,A A B C C D,1 1 0 1 1 1,1
+40,apace place name deed heed game,ace ace ame eed eed ame,A A B C C B,1 1 1 1 1 1,1
+41,nigh softily knockd damsel well unlockd,igh y ockd el ell ockd,A A B C C B,1 1 0 0 0 0,1
+42,said maid man me she than,aid aid an e e an,A A B C C B,1 1 1 1 1 1,1
+43,mistress doubtless order man can farther,ess ess er an an er,A A B C C B,1 1 0 1 1 0,1
+44,truly i fai sick like today,y i ai ick ike ay,A B C D D E,1 0 0 1 0 1,2
+45,mai pray desire do to friar,ai ay ire o o iar,A B C D D C,0 1 1 1 1 1,1
+46,speak break certain will still again,eak eak ain ill ill ain,A A B C C B,1 1 1 1 1 1,1
+47,go so say mistrusting thing way,o o ay ing ing ay,A A B C C B,1 1 1 1 1 1,1
+48,hither together goth brought thought wroth,er er oth ought ought oth,A A B C C B,0 0 1 1 1 1,1
+49,officer frere aloft than man oft,er ere oft an an oft,A B C D D C,0 1 1 1 1 1,1
+50,again fain hand said dismayd understand,ain ain and aid ayd and,A A B C D B,1 1 1 1 0 1,1
+51,he me is frere cheer this,e e is ere eer is,A A B C C B,1 1 1 1 1 1,1
+52,sake take breast all shall best,ake ake east all all est,A A B C C B,1 1 1 1 1 0,1
+53,now you please not that ease,ow ou ease ot at ease,A B C D E C,1 0 1 1 1 1,2
+54,maid said frere tiding bring hear,aid aid ere ing ing ear,A A B C C B,1 1 1 1 1 1,1
+55,none alone grace thee me mace,one one ace ee e ace,A A B C C B,1 1 1 1 0 1,1
+56,obey way clutch hence pence pouch,ey ay utch ence ence ouch,A A B C C D,1 1 1 1 1 1,1
+57,there fear wood thief mischief good,ere ear ood ief ief ood,A A B C C B,1 1 1 1 1 1,1
+58,fist list blow down swoon overthrow,ist ist ow own oon ow,A A B C D B,1 1 1 1 1 1,1
+59,man than slain raps claps again,an an ain aps aps ain,A A A B B A,1 1 0 0 0 0,1
+60,heart start about goth both clout,eart art out oth oth out,A A B C C B,1 1 1 1 1 1,1
+61,tear hair fast lugging tugging last,ear air ast ing ing ast,A A B C C B,1 0 1 1 1 1,1
+62,ground round stroke rumble tumble poke,ound ound oke e e oke,A A B C C B,1 1 1 1 1 1,1
+63,above shove last wife strife fast,ove ove ast ife ife ast,A A B C C B,1 1 1 1 1 1,1
+64,spy lie place hood agood face,y ie ace ood ood ace,A A B C C B,1 1 1 1 1 1,1
+65,blind behind floor joll noul battledoor,ind ind oor oll oul oor,A A B C D B,1 1 1 0 1 1,1
+66,yet feet down rock knock crown,yet eet own ock ock own,A B C D D C,0 1 1 1 1 1,1
+67,mace face pain frap swap slain,ace ace ain ap ap ain,A A B C C B,1 1 1 1 1 1,1
+68,lift thrift stair threw adieu mayr,ift ift air ew eu ayr,A A B C C D,1 1 1 1 0 0,1
+69,arose suppose head ears fears afled,ose ose ead ars ars afled,A A B C C D,1 1 1 0 0 0,1
+70,lost cost near theeh me frere,ost ost ear eeh e ere,A A B C D B,1 1 1 0 1 1,1
+71,all shall began anywise advise man,all all an ise ise an,A A B C C B,1 1 1 1 1 1,1
+72,use refuse gone frere cheer chone,use use one ere eer one,A A B C C B,1 1 1 1 1 1,1
+73,confidence prosperity hence me be i lie,ence y ence e e i ie,A B A C C D B,1 1 1 1 1 0 1,1
+74,lineage king marriage thing reckoning ancestry lie,eage ing iage ing ing y ie,A B C B B D D,0 1 0 1 1 1 1,1
+75,gone fear none gere messenger remedy lie,one ear one ere er y ie,A B A B B C C,1 1 1 1 0 1 1,1
+76,otherwise delice promise devynatrice wise prophecy lie,ise ice ise ice ise y ie,A A A A A B B,1 1 1 1 1 1 1,1
+77,bitterness pain distress again sayne i lie,ess ain ess ain ayne i ie,A B A B C D E,1 1 1 1 0 0 1,2
+78,towers me yours see ye edify lie,ers e urs ee ye y ie,A B C B B B B,0 1 0 1 0 0 0,1
+79,lord combine concord resign mine supply lie,ord ine ord ign ine y ie,A B A B B C C,1 1 1 1 1 1 1,1
+80,margaret mind meet behind blind nye lie,et ind eet ind ind ye ie,A B C B B D D,1 1 1 1 1 0 0,1
+81,mother cheer nother fere dear cry lie,er eer er ere ear y ie,A B A B B C C,0 1 0 1 1 1 1,1
+82,adieu estate hue fortunate kate destiny lie,eu ate ue ate ate y ie,A B A B B D D,0 1 1 1 1 1 1,1
+83,katherine three mine vanity flee magnify lie,ine ee ine y ee y ie,A B A B B B B,1 1 1 0 1 0 0,1
+84,all chone shall alone one mercy lie,all one all one one y ie,A B A B B C C,1 1 1 1 1 1 1,1
+85,auctoritie spye dignitie finally by sustinaunce ordinaunce,ie ye ie y y aunce aunce,A A A A A B B,1 1 1 1 1 1 1,1
+86,wonne last begonne fast overcast suffise wyse,onne ast onne ast ast ise yse,A B A B B C D,0 1 0 1 1 1 0,1
+87,this boke nys loke forsoke them them,is oke ys oke oke em em,A B C B B D D,1 1 0 1 1 1 1,1
+88,vayne richesse payne distresse comfortlesse,ayne esse ayne esse esse,A B A B B,0 0 0 0 0,1
+89,mind ball kind all small play day,ind all ind all all ay ay,A B A B B C C,1 1 1 1 1 1 1,1
+90,delight feed flight steed indeed sweeter better,ight eed ight eed eed er er,A B A B B C C,1 1 1 1 1 0 0,1
+91,might cupid aright pride side small thrall,ight upid ight ide ide all all,A B A C C D D,1 0 1 1 1 1 1,1
+92,hoar part therefore smart dart oppress business,oar art ore art art ess ess,A B A B B C C,1 1 1 1 1 1 1,1
+93,mishape wide escape magnified pride pain brain,ape ide ape ied ide ain ain,A B A B B C C,1 1 1 1 1 1 1,1
+94,nothing round living confound ground i memory,ing ound ing ound ound i y,A B A B B C D,1 1 1 1 1 0 1,1
+95,hand hour land honour flower eternal all,and our and our er al all,A B A B B C C,1 1 1 1 0 1 0,1
+96,eternity well be tell mobility degree brought nought,y ell e ell y ee ought ought,A B A B A A D D,1 1 1 1 1 0 1 1,1
+97,fair smile repair beguile erewhile uniform storm,air ile air uile ile orm orm,A B A B B C C,1 1 1 0 1 1 1,1
+98,servingman gat then that cat times rhymes,an at en at at imes es,A B C B B D D,1 1 1 1 1 1 0,1
+99,alone forsake none take make many any,one ake one ake ake y y,A B A B B C C,1 1 1 1 1 1 1,1
+100,god grave odd have gave thought naught,od ave odd ave ave ought aught,A B A B B C C,1 1 0 1 1 1 0,1
+101,company is thereby bliss miss estate infortunate,y is y iss iss ate ate,A B A C C D D,1 1 1 1 1 1 1,1
+102,he disport be resort port sight delight,e ort e ort ort ight ight,A B A B B C C,1 1 1 1 1 1 1,1
+103,is been amiss clean seen pace grace,is een iss ean een ace ace,A B C B B D D,1 1 1 1 1 1 1,1
+104,favor wise behaviour devise arise prowl soul,or ise our ise ise owl oul,A B C B B D D,1 1 1 1 1 1 1,1
+105,fervent fall content small therewithal get set,ent all ent all al et et,A B A B B C C,1 1 1 1 0 1 1,1
+106,content endure absent sure procure light sight,ent ure ent ure ure ight ight,A B A B B C C,1 1 1 1 1 1 1,1
+107,heart sustain smart pain fain take sake,eart ain art ain ain ake ake,A B A B B C C,1 1 1 1 1 1 1,1
+108,also glad woe bestead adread adversity thee,o ad oe ead ead y ee,A B A B B C C,1 1 0 0 0 1 0,1
+109,be day he may say brought thought,e ay e ay ay ought ought,A B A B B C C,1 1 1 1 1 1 1,1
+110,should may would always purvey bereaven heaven,ould ay ould ays ey en en,A B A C B D D,1 1 1 0 1 1 1,1
+111,least wait beast conceit strait near dear,east ait east eit ait ear ear,A B A C B D D,1 1 1 1 1 1 1,1
+112,picture magnificence cure reverence preeminence wurche church,ure ence ure ence ence e urch,A B A B B C D,1 1 1 1 1 1 1,1
+113,things hear praising clear manner vary contrary,ings ear ing ear er y y,A B C B B D D,0 1 1 1 0 1 1,1
+114,likewise praise comprise obeys ways blasphemy unreverently,ise aise ise eys ays y y,A B A B B C C,1 1 1 1 1 1 1,1
+115,mind bent find excellent intent name same,ind ent ind ent ent ame ame,A B A B B C C,1 1 1 1 1 1 1,1
+116,high ought magnify wrought nought devise likewise,igh ought y ought ought ise ise,A B A B B C C,1 1 1 1 1 1 1,1
+117,pale stalk ale talk walk fire desire,ale alk ale alk alk ire ire,A B A B B C C,1 1 1 1 1 1 1,1
+118,take remembrance wake dance plesance remove love,ake ance ake ance ance ove ove,A B A B B C C,1 1 1 1 1 1 1,1
+119,heart fear smart elsewhere tear be adversity,eart ear art ere ear e y,A B A B B C C,1 1 1 1 1 1 0,1
+120,breast meditation rest contemplation delectation fro woe,east ion est ion ion o oe,A B A B B C C,1 0 0 0 0 1 0,1
+121,obey appetite may delight night regard reward,ey ite ay ight ight ard ard,A B A B B C C,1 1 1 1 1 1 1,1
+122,set endeavor let dissever never bind mind,et or et er er ind ind,A B A C C D D,1 1 1 0 0 1 1,1
+123,move desirable love amiable serviceable more before,ove able ove iable eable ore ore,A B A C D E E,1 0 1 0 0 1 1,2
+124,meed be speed he thee rood blood,eed e eed e ee ood ood,A B A B B C C,1 1 1 1 1 1 1,1
+125,majesty one be alone moan guilt spilt,y one e one oan uilt ilt,A B C B B D D,1 1 1 1 0 1 1,1
+126,judgment weigh punishment say aye stand hand,ent eigh ent ay ye and and,A B A B C D D,1 1 1 1 0 1 1,1
+127,original wise all justice device dispense offence,al ise all ice ice ense ence,A B A B B C C,1 1 0 1 1 0 0,1
+128,sin be therein pardee he taketh maketh,in e ein ee e eth eth,A B C B B D D,1 1 1 1 1 0 0,1
+129,art dignity heart malignity benignity be thee,art y eart y y e ee,A B A B B B B,1 1 1 1 1 1 0,1
+130,certain mind again kind find space grace,ain ind ain ind ind ace ace,A B A B B C C,1 1 1 1 1 1 1,1
+131,alas dear trespass year peer preace increase,as ear ass ear eer eace ease,A B C B B D D,1 1 1 1 1 1 1,1
+132,power sufficiently hour testify mercy indulgence offence,er y our y y ence ence,A B A B B D D,0 1 1 1 1 1 1,1
+133,love majesty above we be side wide,ove y ove e e ide ide,A B A C C D D,1 1 1 1 1 1 1,1
+134,king goodness providing distress thankless wise vice,ing ess ing ess ess ise ice,A B A B B C C,1 1 1 1 1 1 1,1
+135,heart egall astart thrall all desire afire,eart all art all all ire ire,A B A B B C C,1 1 1 1 1 1 1,1
+136,life thence wife presence indulgence rather father,ife ence ife ence ence er er,A B A B B C C,1 1 1 1 1 0 0,1
+137,way continual ave thrall shall sustain pain,ay ual ave all all ain ain,A B C D D E E,1 0 1 1 1 1 1,2
+138,woe wis also is this die perpetually,oe is o is is ie y,A B A B B C C,1 1 1 1 1 1 1,1
+139,vain delight captain fight right record lord,ain ight ain ight ight ord ord,A B A B B C C,1 1 1 1 1 1 1,1
+140,grudge fight judge might delight behavior savoir,udge ight udge ight ight ior oir,A B A B B C D,1 1 1 1 1 0 0,1
+141,strive motion five devotion potion therewithal gall,ive ion ive ion ion al all,A B A B B C C,1 0 1 0 0 1 0,1
+142,forbear then were when bondman thee tree,ear en ere en an ee ee,A B A B C D D,1 1 1 1 1 1 1,1
+143,wroth best both thrests breast disdain pain,oth est oth ests east ain ain,A B A C B D D,1 1 1 0 1 1 1,1
+144,devil by evil apply valiantly dart part,il y il y y art art,A B A B B C C,0 1 0 1 1 1 1,1
+145,must armor trust savior power out about,ust or ust ior er out out,A B A C D E E,1 1 1 0 0 1 1,2
+146,evil confidence devil reverence diligence plaints saints,il ence il ence ence ints ints,A B A B B C C,0 1 0 1 1 0 0,1
+147,tarry hour adversary devour tower catch watch,y our y our er atch atch,A B A B B C C,1 1 1 1 0 1 1,1
+148,stand might hand flight sight contract act,and ight and ight ight act act,A B A B B C C,1 1 1 1 1 1 1,1
+149,mind pride blind guide applied his is,ind ide ind uide ied is is,A B A B B C C,1 1 1 0 1 1 1,1
+150,preace victory peace mercy enemy battle assail,eace y eace y y e ail,A B A B B C D,1 1 1 1 1 1 1,1
+151,obtain gear again fear bear memory victory,ain ear ain ear ear y y,A B A B B C C,1 1 1 1 1 1 1,1
+152,sure vice endure dice wise sin therein,ure ice ure ice ise in ein,A B A B B C D,1 1 1 1 1 1 1,1
+153,beginning babylon thing stone bone sore more,ing on ing one one ore ore,A B A B B C C,1 1 1 0 0 1 1,1
+154,war sour far conqueror pleasure within sin,ar our ar or ure in in,A B A C B D D,1 1 1 1 0 1 1,1
+155,negligence victory concupiscence unadvisedly apply delight fight,ence y ence y y ight ight,A B A B B C C,1 1 1 1 1 1 1,1
+156,known experience overthrown diligence defense rest conquest,own ience own ence ense est est,A B A C C D D,1 0 1 1 1 1 1,1
+157,nothing paul being extol soul provide pride,ing aul eing ol oul ide ide,A B C D E F F,1 0 0 1 1 1 1,2
+158,love chose above depose close reprief mischief,ove ose ove ose ose ief ief,A B A B B C C,1 1 1 1 1 1 1,1
+159,gloss power cross hour honor great meat,oss er oss our or eat eat,A B A B D E E,1 0 1 1 1 1 1,1
+160,hast sight taste delight appetite cast past,ast ight aste ight ite ast ast,A B A B B A A,1 1 0 1 1 1 1,1
+161,do remain thereto contain restrain behind mind,o ain o ain ain ind ind,A B A B B C C,1 1 1 1 1 1 1,1
+162,buy advise by enemies merchandise reckoning thing,uy ise y ies ise ing ing,A B A B B D D,0 1 1 1 1 1 1,1
+163,confidence sin experience begin lin shall wall,ence in ience in in all all,A B C B B D D,1 1 0 1 1 1 1,1
+164,day care play fare unaware enterprise wise,ay are ay are are ise ise,A B A B B C C,1 1 1 1 1 1 1,1
+165,therefore case more space grace offence hence,ore ase ore ace ace ence ence,A B A B B C C,1 1 1 1 1 1 1,1
+166,thoroughfare host bare cost ghost dissever forever,are ost are ost ost er er,A B A B B C C,1 1 1 1 1 0 0,1
+167,reasonable figure intolerable endure nature equal thrall,able ure able ure ure ual all,A B A B B C D,0 1 0 1 1 0 1,1
+168,joy fantasies toy devise warrantise find mind,oy ies oy ise ise ind ind,A B A B B C C,1 0 1 0 0 1 1,1
+169,both his wroth this bliss be thee,oth is oth is iss e ee,A B A B B D D,1 1 1 1 1 1 1,1
+170,friest pain christ vein twain wrought bought,est ain ist ein ain ought ought,A B C B B D D,1 1 1 1 1 1 1,1
+171,might use sight accuse refuse eftsoon done,ight use ight use use oon one,A B A B B C C,1 1 1 1 1 1 0,1
+172,spin mouse thin,in ouse in,A B A,1 1 1,1
+173,house pain souse,ouse ain ouse,A B A,1 1 1,1
+174,rain plight remain,ain ight ain,A B A,1 1 1,1
+175,dight bean night,ight ean ight,A B A,1 1 1,1
+176,glean flood clean,ean ood ean,A B A,1 1 1,1
+177,food beguile good,ood uile ood,A B A,1 0 1,1
+178,mile dry defile i,ile y ile i,A B A C,1 1 1 0,2
+179,last waste begun past done,ast aste un ast one,A A B A B,1 0 1 1 0,1
+180,none stone soon moan done,one one oon oan one,A A A A A,1 1 0 0 1,1
+181,cruelly continually affection remedy done,y y ion y one,A A B A C,1 1 0 1 1,1
+182,got shot won forgot done,ot ot on ot one,A A B A B,1 1 1 1 0,1
+183,disdain pain sun plain done,ain ain un ain one,A A B A B,1 1 1 1 0,1
+184,old cold moon told done,old old oon old one,A A B A B,1 1 1 1 0,1
+185,repent spent swoon lent done,ent ent oon ent one,A A B A B,1 1 1 1 0,1
+186,last waste begun past done,ast aste un ast one,A A B A B,1 0 1 1 0,1
+187,plain smart remain overthwart,ain art ain art,A B A B,1 1 1 1,1
+188,heart mind smart find,eart ind art ind,A B A B,1 1 1 1,1
+189,assured trust endured lust,ured ust ured ust,A B A B,0 1 0 1,1
+190,thus shame blame grame thus nay,us ame ame ame us ay,A B B B A C,1 1 1 1 1 1,1
+191,thus long among strong thus nay,us ong ong ong us ay,A B B B A C,1 1 1 1 1 1,1
+192,thus heart depart smart thus nay,us eart art art us ay,A B B B A C,1 1 1 1 1 1,1
+193,thus pitye thee cruelty thus nay,us ye ee y us ay,A B C B A D,1 0 1 0 1 1,1
+194,array repast play waste taste hold gold,ay ast ay aste aste old old,A B A B B C C,1 1 1 0 0 1 1,1
+195,seek chamber meek remember danger range change,eek er eek er er ange ange,A B A B B C C,1 0 1 0 0 1 1,1
+196,otherwise special guise fall small kiss this,ise ial uise all all iss is,A B A C C A D,1 0 0 1 1 0 1,1
+197,waking gentleness forsaking goodness newfangleness served deserved,ing ess ing ess ess erved erved,A B A B B C C,1 1 1 1 1 0 0,1
