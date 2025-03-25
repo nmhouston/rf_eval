@@ -10,8 +10,8 @@ The folders in the repo match the structure on the computer used to run the R sc
  - data_memo.md -- details about resolving errors in the gold standard corpus 
  
  - (reddy): Contains the raw data files downloaded from Reddy's repo. See the data memo for details.
-	 - (eval): outputs from evaluate_reddy, examine_reddy_data_errors, and accuracy_reddy  
 	 - (data): Reddy data files output as csv from prepare_reddy_data
+	 - (eval): outputs from evaluate_reddy, examine_reddy_data_errors, and accuracy_reddy  
 	 - (output): rhyme analysis output from find_rhymes_reddy
 
  - (scripts)  Scripts were run in this order:
