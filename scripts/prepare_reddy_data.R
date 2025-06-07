@@ -1,4 +1,4 @@
-#prepare_reddy_data_202502
+#prepare_reddy_data
 
 #This script takes as input the text files downloaded from Reddy and Sonderegger's 
 #Chicago Rhyming Poetry Corpus (https://github.com/sravanareddy/rhymedata) 
@@ -11,8 +11,8 @@
 
 library(tidyverse)
 library(fs)
-reddydir<-"C:/data/JCLS2025/reddy/"
-reddydata<-"C:/data/JCLS2025/reddy/data/"
+reddydir<-"C:/data/rf_eval/reddy/"
+reddydata<-"C:/data/rf_eval/reddy/data/"
 texts_paths<-path_filter(dir_ls(reddydir), glob="*_pgold.txt")
 texts_names<-path_ext_remove(path_file(texts_paths))
 

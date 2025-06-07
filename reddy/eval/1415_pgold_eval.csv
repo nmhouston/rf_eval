@@ -1,198 +1,198 @@
-textid,poem,endwords,goldvector,rfnum,eval,correct,percent_perf,ltrvec,perf,throw_out,veclength
-1,POEM0,alway say man diligently apply can,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-2,POEM0,wise enterprise faculty will skill thrive,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,1,A A B C C D,1 1 1 1 1 1,0,6
-3,POEM0,left craft shone shall fall done,1 1 2 3 3 2,1 2 3 4 4 3,1,0.16666666666666666,1,A B C D D C,1 1 1 1 1 1,0,6
-4,POEM0,draper paper school butler cutler fool,1 1 2 3 3 2,1 1 2 1 1 2,4,0.6666666666666666,0.3333333333333333,A A B A A B,0 0 1 0 0 1,0,6
-5,POEM0,trot wot cup physic sick up,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,1 1 1 0 0 1,0,6
-6,POEM0,law saw sell rise merchandise well,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-7,POEM0,eke seek may suit dispute away,1 1 2 3 3 2,1 2 3 4 4 3,1,0.16666666666666666,0.5,A B C D D C,0 1 1 0 0 1,0,6
-8,POEM0,law straw man strife life whan,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-9,POEM0,hatter smatter philosophy pedlar meddler theology,1 1 2 3 3 2,1 1 2 3 1 2,5,0.8333333333333334,0.5,A A B C A B,0 0 1 1 0 1,0,6
-10,POEM0,ensue new cast evermore therefore last,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-11,POEM0,tried verified late was pass pate,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,0.6666666666666666,A A B C D B,0 0 1 1 1 1,0,6
-12,POEM0,would could frere will fell hear,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,1,A A B C D B,1 1 1 1 1 1,0,6
-13,POEM0,so ago died pound round aside,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,1 1 0 1 1 0,0,6
-14,POEM0,would gold withal suffice thrice small,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 1 1 1 1 0,0,6
-15,POEM0,day say certes cast last less,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.8333333333333334,A A B C C D,1 1 0 1 1 1,0,6
-16,POEM0,man began employ certainly policy joy,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-17,POEM0,blast overcast mischance wile beguile substance,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 1 1 1 0 1,0,6
-18,POEM0,out doubt purvey whit wit way,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-19,POEM0,well deal pot thought nought not,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 0 1 1 1 1,0,6
-20,POEM0,fain again cup by covetously fairlyup,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.8333333333333334,A A B C C D,1 1 1 1 1 0,0,6
-21,POEM0,breast best inclose well fell lose,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 0 1 1 1 1,0,6
-22,POEM0,then men merchandise it it wise,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-23,POEM0,gear wear spent nice price miscontent,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-24,POEM0,sport resort company play day merrily,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-25,POEM0,sworn born hour he degree honour,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-26,POEM0,doubt out fair strait wait mayr,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.8333333333333334,A A B C C D,1 1 1 1 1 0,0,6
-27,POEM0,doubtless meekness pride go so aside,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-28,POEM0,cathrine line tide devotion promotion abide,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,1 1 1 0 0 1,0,6
-29,POEM0,fast past many debt get penny,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 1 1 0 1 1,0,6
-30,POEM0,stout out hedge twain fain pledge,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-31,POEM0,there fear thither fain again whither,1 1 2 3 3 2,1 1 1 2 2 1,2,0.3333333333333333,0.6666666666666666,A A A B B A,1 1 0 1 1 0,0,6
-32,POEM0,this his abode lay alway abroad,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-33,POEM0,than man to officer enquire do,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,0.6666666666666666,A A B C D B,1 1 1 0 0 1,0,6
-34,POEM0,ansred afraid therefore behest rest more,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 0 1 1 1 1,0,6
-35,POEM0,he be out said afraid about,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-36,POEM0,game same ure sake bake cure,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-37,POEM0,both goth officer day array frere,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.8333333333333334,A A B C C D,1 1 0 1 1 1,0,6
-38,POEM0,dight might deny dookd lookd religiously,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,1 1 1 0 0 1,0,6
-39,POEM0,glass pass peerd pride side frerd,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.8333333333333334,A A B C C D,1 1 0 1 1 1,0,6
-40,POEM0,apace place name deed heed game,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-41,POEM0,nigh softily knockd damsel well unlockd,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.3333333333333333,A A B C C B,1 1 0 0 0 0,0,6
-42,POEM0,said maid man me she than,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-43,POEM0,mistress doubtless order man can farther,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,1 1 0 1 1 0,0,6
-44,POEM0,truly i fai sick like today,1 1 2 3 3 2,1 2 3 4 4 5,1,0.16666666666666666,0.5,A B C D D E,1 0 0 1 0 1,0,6
-45,POEM0,mai pray desire do to friar,1 1 2 3 3 2,1 2 3 4 4 3,1,0.16666666666666666,0.8333333333333334,A B C D D C,0 1 1 1 1 1,0,6
-46,POEM0,speak break certain will still again,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-47,POEM0,go so say mistrusting thing way,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-48,POEM0,hither together goth brought thought wroth,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.6666666666666666,A A B C C B,0 0 1 1 1 1,0,6
-49,POEM0,officer frere aloft than man oft,1 1 2 3 3 2,1 2 3 4 4 3,1,0.16666666666666666,0.8333333333333334,A B C D D C,0 1 1 1 1 1,0,6
-50,POEM0,again fain hand said dismayd understand,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,0.8333333333333334,A A B C D B,1 1 1 1 0 1,0,6
-51,POEM0,he me is frere cheer this,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-52,POEM0,sake take breast all shall best,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 1 1 1 1 0,0,6
-53,POEM0,now you please not that ease,1 1 2 3 3 2,1 2 3 4 5 3,1,0.16666666666666666,0.8333333333333334,A B C D E C,1 0 1 1 1 1,0,6
-54,POEM0,maid said frere tiding bring hear,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-55,POEM0,none alone grace thee me mace,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 1 1 1 0 1,0,6
-56,POEM0,obey way clutch hence pence pouch,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,1,A A B C C D,1 1 1 1 1 1,0,6
-57,POEM0,there fear wood thief mischief good,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-58,POEM0,fist list blow down swoon overthrow,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,1,A A B C D B,1 1 1 1 1 1,0,6
-59,POEM0,man than slain raps claps again,1 1 2 3 3 2,1 1 1 2 2 1,2,0.3333333333333333,0.3333333333333333,A A A B B A,1 1 0 0 0 0,0,6
-60,POEM0,heart start about goth both clout,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-61,POEM0,tear hair fast lugging tugging last,1 1 2 3 3 2,1 1 2 3 3 2,6,1,0.8333333333333334,A A B C C B,1 0 1 1 1 1,0,6
-62,POEM0,ground round stroke rumble tumble poke,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-63,POEM0,above shove last wife strife fast,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-64,POEM0,spy lie place hood agood face,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-65,POEM0,blind behind floor joll noul battledoor,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,0.8333333333333334,A A B C D B,1 1 1 0 1 1,0,6
-66,POEM0,yet feet down rock knock crown,1 1 2 3 3 2,1 2 3 4 4 3,1,0.16666666666666666,0.8333333333333334,A B C D D C,0 1 1 1 1 1,0,6
-67,POEM0,mace face pain frap swap slain,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-68,POEM0,lift thrift stair threw adieu mayr,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.6666666666666666,A A B C C D,1 1 1 1 0 0,0,6
-69,POEM0,arose suppose head ears fears afled,1 1 2 3 3 2,1 1 2 3 3 4,5,0.8333333333333334,0.5,A A B C C D,1 1 1 0 0 0,0,6
-70,POEM0,lost cost near theeh me frere,1 1 2 3 3 2,1 1 2 3 4 2,5,0.8333333333333334,0.8333333333333334,A A B C D B,1 1 1 0 1 1,0,6
-71,POEM0,all shall began anywise advise man,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-72,POEM0,use refuse gone frere cheer chone,1 1 2 3 3 2,1 1 2 3 3 2,6,1,1,A A B C C B,1 1 1 1 1 1,0,6
-73,POEM1,confidence prosperity hence me be i lie,1 2 1 2 2 3 3,1 2 1 3 3 4 2,3,0.42857142857142855,0.8571428571428571,A B A C C D B,1 1 1 1 1 0 1,0,7
-74,POEM1,lineage king marriage thing reckoning ancestry lie,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.7142857142857143,A B C B B D D,0 1 0 1 1 1 1,0,7
-75,POEM1,gone fear none gere messenger remedy lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 1 0 1 1,0,7
-76,POEM1,otherwise delice promise devynatrice wise prophecy lie,1 2 1 2 2 3 3,1 1 1 1 1 2 2,2,0.2857142857142857,1,A A A A A B B,1 1 1 1 1 1 1,0,7
-77,POEM1,bitterness pain distress again sayne i lie,1 2 1 2 2 3 3,1 2 1 2 3 4 5,4,0.5714285714285714,0.7142857142857143,A B A B C D E,1 1 1 1 0 0 1,0,7
-78,POEM1,towers me yours see ye edify lie,1 2 1 2 2 3 3,1 2 3 2 2 2 2,4,0.5714285714285714,0.2857142857142857,A B C B B B B,0 1 0 1 0 0 0,0,7
-79,POEM1,lord combine concord resign mine supply lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-80,POEM1,margaret mind meet behind blind nye lie,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.7142857142857143,A B C B B D D,1 1 1 1 1 0 0,0,7
-81,POEM1,mother cheer nother fere dear cry lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,0 1 0 1 1 1 1,0,7
-82,POEM1,adieu estate hue fortunate kate destiny lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B D D,0 1 1 1 1 1 1,0,7
-83,POEM1,katherine three mine vanity flee magnify lie,1 2 1 2 2 3 3,1 2 1 2 2 2 2,5,0.7142857142857143,0.5714285714285714,A B A B B B B,1 1 1 0 1 0 0,0,7
-84,POEM1,all chone shall alone one mercy lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-85,POEM2,auctoritie spye dignitie finally by sustinaunce ordinaunce,1 2 1 2 2 3 3,1 1 1 1 1 2 2,2,0.2857142857142857,1,A A A A A B B,1 1 1 1 1 1 1,0,7
-86,POEM2,wonne last begonne fast overcast suffise wyse,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,0.5714285714285714,A B A B B C D,0 1 0 1 1 1 0,0,7
-87,POEM2,this boke nys loke forsoke them them,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.8571428571428571,A B C B B D D,1 1 0 1 1 1 1,0,7
-88,POEM2,vayne richesse payne distresse comfortlesse,1 2 1 2 2,1 2 1 2 2,5,1,0,A B A B B,0 0 0 0 0,0,5
-89,POEM3,mind ball kind all small play day,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-90,POEM3,delight feed flight steed indeed sweeter better,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 1 1 0 0,0,7
-91,POEM3,might cupid aright pride side small thrall,1 2 1 2 2 3 3,1 2 1 3 3 4 4,3,0.42857142857142855,0.8571428571428571,A B A C C D D,1 0 1 1 1 1 1,0,7
-92,POEM3,hoar part therefore smart dart oppress business,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-93,POEM3,mishape wide escape magnified pride pain brain,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-94,POEM3,nothing round living confound ground i memory,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,0.8571428571428571,A B A B B C D,1 1 1 1 1 0 1,0,7
-95,POEM3,hand hour land honour flower eternal all,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 1 0 1 0,0,7
-96,POEM3,eternity well be tell mobility degree brought nought,1 2 1 2 1 1 3 3,1 2 1 2 1 1 3 3,8,1,0.875,A B A B A A D D,1 1 1 1 1 0 1 1,0,8
-97,POEM4,fair smile repair beguile erewhile uniform storm,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 0 1 1 1,0,7
-98,POEM4,servingman gat then that cat times rhymes,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.8571428571428571,A B C B B D D,1 1 1 1 1 1 0,0,7
-99,POEM5,alone forsake none take make many any,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-100,POEM5,god grave odd have gave thought naught,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 0 1 1 1 0,0,7
-101,POEM5,company is thereby bliss miss estate infortunate,1 2 1 2 2 3 3,1 2 1 3 3 4 4,3,0.42857142857142855,1,A B A C C D D,1 1 1 1 1 1 1,0,7
-102,POEM5,he disport be resort port sight delight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-103,POEM5,is been amiss clean seen pace grace,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,1,A B C B B D D,1 1 1 1 1 1 1,0,7
-104,POEM5,favor wise behaviour devise arise prowl soul,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,1,A B C B B D D,1 1 1 1 1 1 1,0,7
-105,POEM5,fervent fall content small therewithal get set,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 1 0 1 1,0,7
-106,POEM5,content endure absent sure procure light sight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-107,POEM5,heart sustain smart pain fain take sake,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-108,POEM5,also glad woe bestead adread adversity thee,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.42857142857142855,A B A B B C C,1 1 0 0 0 1 0,0,7
-109,POEM5,be day he may say brought thought,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-110,POEM5,should may would always purvey bereaven heaven,1 2 1 2 2 3 3,1 2 1 3 2 4 4,4,0.5714285714285714,0.8571428571428571,A B A C B D D,1 1 1 0 1 1 1,0,7
-111,POEM5,least wait beast conceit strait near dear,1 2 1 2 2 3 3,1 2 1 3 2 4 4,4,0.5714285714285714,1,A B A C B D D,1 1 1 1 1 1 1,0,7
-112,POEM5,picture magnificence cure reverence preeminence wurche church,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,1,A B A B B C D,1 1 1 1 1 1 1,0,7
-113,POEM5,things hear praising clear manner vary contrary,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.7142857142857143,A B C B B D D,0 1 1 1 0 1 1,0,7
-114,POEM5,likewise praise comprise obeys ways blasphemy unreverently,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-115,POEM5,mind bent find excellent intent name same,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-116,POEM5,high ought magnify wrought nought devise likewise,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-117,POEM5,pale stalk ale talk walk fire desire,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-118,POEM5,take remembrance wake dance plesance remove love,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-119,POEM5,heart fear smart elsewhere tear be adversity,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 1 1 1 0,0,7
-120,POEM5,breast meditation rest contemplation delectation fro woe,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.2857142857142857,A B A B B C C,1 0 0 0 0 1 0,0,7
-121,POEM5,obey appetite may delight night regard reward,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-122,POEM5,set endeavor let dissever never bind mind,1 2 1 2 2 3 3,1 2 1 3 3 4 4,3,0.42857142857142855,0.7142857142857143,A B A C C D D,1 1 1 0 0 1 1,0,7
-123,POEM5,move desirable love amiable serviceable more before,1 2 1 2 2 3 3,1 2 1 3 4 5 5,3,0.42857142857142855,0.5714285714285714,A B A C D E E,1 0 1 0 0 1 1,0,7
-124,POEM5,meed be speed he thee rood blood,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-125,POEM5,majesty one be alone moan guilt spilt,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.8571428571428571,A B C B B D D,1 1 1 1 0 1 1,0,7
-126,POEM5,judgment weigh punishment say aye stand hand,1 2 1 2 2 3 3,1 2 1 2 3 4 4,4,0.5714285714285714,0.8571428571428571,A B A B C D D,1 1 1 1 0 1 1,0,7
-127,POEM5,original wise all justice device dispense offence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.5714285714285714,A B A B B C C,1 1 0 1 1 0 0,0,7
-128,POEM5,sin be therein pardee he taketh maketh,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.7142857142857143,A B C B B D D,1 1 1 1 1 0 0,0,7
-129,POEM5,art dignity heart malignity benignity be thee,1 2 1 2 2 3 3,1 2 1 2 2 2 2,5,0.7142857142857143,0.8571428571428571,A B A B B B B,1 1 1 1 1 1 0,0,7
-130,POEM5,certain mind again kind find space grace,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-131,POEM5,alas dear trespass year peer preace increase,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,1,A B C B B D D,1 1 1 1 1 1 1,0,7
-132,POEM5,power sufficiently hour testify mercy indulgence offence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B D D,0 1 1 1 1 1 1,0,7
-133,POEM5,love majesty above we be side wide,1 2 1 2 2 3 3,1 2 1 3 3 4 4,3,0.42857142857142855,1,A B A C C D D,1 1 1 1 1 1 1,0,7
-134,POEM5,king goodness providing distress thankless wise vice,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-135,POEM5,heart egall astart thrall all desire afire,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-136,POEM5,life thence wife presence indulgence rather father,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 1 1 0 0,0,7
-137,POEM6,way continual ave thrall shall sustain pain,1 2 1 2 2 3 3,1 2 3 4 4 5 5,2,0.2857142857142857,0.8571428571428571,A B C D D E E,1 0 1 1 1 1 1,0,7
-138,POEM6,woe wis also is this die perpetually,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-139,POEM6,vain delight captain fight right record lord,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-140,POEM6,grudge fight judge might delight behavior savoir,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,0.7142857142857143,A B A B B C D,1 1 1 1 1 0 0,0,7
-141,POEM6,strive motion five devotion potion therewithal gall,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.42857142857142855,A B A B B C C,1 0 1 0 0 1 0,0,7
-142,POEM6,forbear then were when bondman thee tree,1 2 1 2 2 3 3,1 2 1 2 3 4 4,4,0.5714285714285714,1,A B A B C D D,1 1 1 1 1 1 1,0,7
-143,POEM6,wroth best both thrests breast disdain pain,1 2 1 2 2 3 3,1 2 1 3 2 4 4,4,0.5714285714285714,0.8571428571428571,A B A C B D D,1 1 1 0 1 1 1,0,7
-144,POEM6,devil by evil apply valiantly dart part,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,0 1 0 1 1 1 1,0,7
-145,POEM6,must armor trust savior power out about,1 2 1 2 2 3 3,1 2 1 3 4 5 5,3,0.42857142857142855,0.7142857142857143,A B A C D E E,1 1 1 0 0 1 1,0,7
-146,POEM6,evil confidence devil reverence diligence plaints saints,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.42857142857142855,A B A B B C C,0 1 0 1 1 0 0,0,7
-147,POEM6,tarry hour adversary devour tower catch watch,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 1 0 1 1,0,7
-148,POEM6,stand might hand flight sight contract act,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-149,POEM6,mind pride blind guide applied his is,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 0 1 1 1,0,7
-150,POEM6,preace victory peace mercy enemy battle assail,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,1,A B A B B C D,1 1 1 1 1 1 1,0,7
-151,POEM6,obtain gear again fear bear memory victory,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-152,POEM6,sure vice endure dice wise sin therein,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,1,A B A B B C D,1 1 1 1 1 1 1,0,7
-153,POEM6,beginning babylon thing stone bone sore more,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 0 0 1 1,0,7
-154,POEM6,war sour far conqueror pleasure within sin,1 2 1 2 2 3 3,1 2 1 3 2 4 4,4,0.5714285714285714,0.8571428571428571,A B A C B D D,1 1 1 1 0 1 1,0,7
-155,POEM6,negligence victory concupiscence unadvisedly apply delight fight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-156,POEM6,known experience overthrown diligence defense rest conquest,1 2 1 2 2 3 3,1 2 1 3 3 4 4,3,0.42857142857142855,0.8571428571428571,A B A C C D D,1 0 1 1 1 1 1,0,7
-157,POEM6,nothing paul being extol soul provide pride,1 2 1 2 2 3 3,1 2 3 4 5 6 6,2,0.2857142857142857,0.7142857142857143,A B C D E F F,1 0 0 1 1 1 1,0,7
-158,POEM6,love chose above depose close reprief mischief,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-159,POEM6,gloss power cross hour honor great meat,1 2 1 2 2 3 3,1 2 1 2 3 4 4,4,0.5714285714285714,0.8571428571428571,A B A B D E E,1 0 1 1 1 1 1,0,7
-160,POEM7,hast sight taste delight appetite cast past,1 2 1 2 2 3 3,1 2 1 2 2 1 1,5,0.7142857142857143,0.8571428571428571,A B A B B A A,1 1 0 1 1 1 1,0,7
-161,POEM7,do remain thereto contain restrain behind mind,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-162,POEM7,buy advise by enemies merchandise reckoning thing,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B D D,0 1 1 1 1 1 1,0,7
-163,POEM7,confidence sin experience begin lin shall wall,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,0.8571428571428571,A B C B B D D,1 1 0 1 1 1 1,0,7
-164,POEM7,day care play fare unaware enterprise wise,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-165,POEM7,therefore case more space grace offence hence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B C C,1 1 1 1 1 1 1,0,7
-166,POEM7,thoroughfare host bare cost ghost dissever forever,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 1 1 0 0,0,7
-167,POEM7,reasonable figure intolerable endure nature equal thrall,1 2 1 2 2 3 3,1 2 1 2 2 3 4,6,0.8571428571428571,0.5714285714285714,A B A B B C D,0 1 0 1 1 0 1,0,7
-168,POEM7,joy fantasies toy devise warrantise find mind,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.5714285714285714,A B A B B C C,1 0 1 0 0 1 1,0,7
-169,POEM7,both his wroth this bliss be thee,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,1,A B A B B D D,1 1 1 1 1 1 1,0,7
-170,POEM7,friest pain christ vein twain wrought bought,1 2 1 2 2 3 3,1 2 3 2 2 4 4,4,0.5714285714285714,1,A B C B B D D,1 1 1 1 1 1 1,0,7
-171,POEM7,might use sight accuse refuse eftsoon done,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.8571428571428571,A B A B B C C,1 1 1 1 1 1 0,0,7
-172,POEM0,spin mouse thin,1 2 1,1 2 1,3,1,1,A B A,1 1 1,0,3
-173,POEM0,house pain souse,1 2 1,1 2 1,3,1,1,A B A,1 1 1,0,3
-174,POEM0,rain plight remain,1 2 1,1 2 1,3,1,1,A B A,1 1 1,0,3
-175,POEM0,dight bean night,1 2 1,1 2 1,3,1,1,A B A,1 1 1,0,3
-176,POEM0,glean flood clean,1 2 1,1 2 1,3,1,1,A B A,1 1 1,0,3
-177,POEM0,food beguile good,1 2 1,1 2 1,3,1,0.6666666666666666,A B A,1 0 1,0,3
-178,POEM0,mile dry defile i,1 2 1 2,1 2 1 3,3,0.75,0.75,A B A C,1 1 1 0,0,4
-179,POEM1,last waste begun past done,1 1 2 1 2,1 1 2 1 2,5,1,0.6,A A B A B,1 0 1 1 0,0,5
-180,POEM1,none stone soon moan done,1 1 2 1 2,1 1 1 1 1,3,0.6,0.6,A A A A A,1 1 0 0 1,0,5
-181,POEM1,cruelly continually affection remedy done,1 1 2 1 2,1 1 2 1 3,4,0.8,0.8,A A B A C,1 1 0 1 1,0,5
-182,POEM1,got shot won forgot done,1 1 2 1 2,1 1 2 1 2,5,1,0.8,A A B A B,1 1 1 1 0,0,5
-183,POEM1,disdain pain sun plain done,1 1 2 1 2,1 1 2 1 2,5,1,0.8,A A B A B,1 1 1 1 0,0,5
-184,POEM1,old cold moon told done,1 1 2 1 2,1 1 2 1 2,5,1,0.8,A A B A B,1 1 1 1 0,0,5
-185,POEM1,repent spent swoon lent done,1 1 2 1 2,1 1 2 1 2,5,1,0.8,A A B A B,1 1 1 1 0,0,5
-186,POEM1,last waste begun past done,1 1 2 1 2,1 1 2 1 2,5,1,0.6,A A B A B,1 0 1 1 0,0,5
-187,POEM2,plain smart remain overthwart,1 2 1 2,1 2 1 2,4,1,1,A B A B,1 1 1 1,0,4
-188,POEM2,heart mind smart find,1 2 1 2,1 2 1 2,4,1,1,A B A B,1 1 1 1,0,4
-189,POEM2,assured trust endured lust,1 2 1 2,1 2 1 2,4,1,0.5,A B A B,0 1 0 1,0,4
-190,POEM3,thus shame blame grame thus nay,1 2 2 2 1 3,1 2 2 2 1 3,6,1,1,A B B B A C,1 1 1 1 1 1,0,6
-191,POEM3,thus long among strong thus nay,1 2 2 2 1 3,1 2 2 2 1 3,6,1,1,A B B B A C,1 1 1 1 1 1,0,6
-192,POEM3,thus heart depart smart thus nay,1 2 2 2 1 3,1 2 2 2 1 3,6,1,1,A B B B A C,1 1 1 1 1 1,0,6
-193,POEM3,thus pitye thee cruelty thus nay,1 2 2 2 1 3,1 2 3 2 1 4,4,0.6666666666666666,0.6666666666666666,A B C B A D,1 0 1 0 1 1,0,6
-194,POEM4,array repast play waste taste hold gold,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 0 0 1 1,0,7
-195,POEM5,seek chamber meek remember danger range change,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.5714285714285714,A B A B B C C,1 0 1 0 0 1 1,0,7
-196,POEM5,otherwise special guise fall small kiss this,1 2 1 2 2 3 3,1 2 1 3 3 1 4,3,0.42857142857142855,0.5714285714285714,A B A C C A D,1 0 0 1 1 0 1,0,7
-197,POEM5,waking gentleness forsaking goodness newfangleness served deserved,1 2 1 2 2 3 3,1 2 1 2 2 3 3,7,1,0.7142857142857143,A B A B B C C,1 1 1 1 1 0 0,0,7
+textid,poem,endwords,goldvector,rfnum,ltrvec
+1,POEM0,alway say man diligently apply can,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+2,POEM0,wise enterprise faculty will skill thrive,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+3,POEM0,left craft shone shall fall done,1 1 2 3 3 2,1 2 3 4 4 3,A B C D D C
+4,POEM0,draper paper school butler cutler fool,1 1 2 3 3 2,1 1 2 1 1 2,A A B A A B
+5,POEM0,trot wot cup physic sick up,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+6,POEM0,law saw sell rise merchandise well,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+7,POEM0,eke seek may suit dispute away,1 1 2 3 3 2,1 2 3 4 4 3,A B C D D C
+8,POEM0,law straw man strife life whan,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+9,POEM0,hatter smatter philosophy pedlar meddler theology,1 1 2 3 3 2,1 1 2 3 1 2,A A B C A B
+10,POEM0,ensue new cast evermore therefore last,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+11,POEM0,tried verified late was pass pate,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+12,POEM0,would could frere will fell hear,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+13,POEM0,so ago died pound round aside,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+14,POEM0,would gold withal suffice thrice small,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+15,POEM0,day say certes cast last less,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+16,POEM0,man began employ certainly policy joy,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+17,POEM0,blast overcast mischance wile beguile substance,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+18,POEM0,out doubt purvey whit wit way,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+19,POEM0,well deal pot thought nought not,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+20,POEM0,fain again cup by covetously fairlyup,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+21,POEM0,breast best inclose well fell lose,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+22,POEM0,then men merchandise it it wise,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+23,POEM0,gear wear spent nice price miscontent,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+24,POEM0,sport resort company play day merrily,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+25,POEM0,sworn born hour he degree honour,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+26,POEM0,doubt out fair strait wait mayr,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+27,POEM0,doubtless meekness pride go so aside,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+28,POEM0,cathrine line tide devotion promotion abide,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+29,POEM0,fast past many debt get penny,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+30,POEM0,stout out hedge twain fain pledge,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+31,POEM0,there fear thither fain again whither,1 1 2 3 3 2,1 1 1 2 2 1,A A A B B A
+32,POEM0,this his abode lay alway abroad,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+33,POEM0,than man to officer enquire do,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+34,POEM0,ansred afraid therefore behest rest more,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+35,POEM0,he be out said afraid about,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+36,POEM0,game same ure sake bake cure,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+37,POEM0,both goth officer day array frere,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+38,POEM0,dight might deny dookd lookd religiously,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+39,POEM0,glass pass peerd pride side frerd,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+40,POEM0,apace place name deed heed game,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+41,POEM0,nigh softily knockd damsel well unlockd,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+42,POEM0,said maid man me she than,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+43,POEM0,mistress doubtless order man can farther,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+44,POEM0,truly i fai sick like today,1 1 2 3 3 2,1 2 3 4 4 5,A B C D D E
+45,POEM0,mai pray desire do to friar,1 1 2 3 3 2,1 2 3 4 4 3,A B C D D C
+46,POEM0,speak break certain will still again,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+47,POEM0,go so say mistrusting thing way,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+48,POEM0,hither together goth brought thought wroth,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+49,POEM0,officer frere aloft than man oft,1 1 2 3 3 2,1 2 3 4 4 3,A B C D D C
+50,POEM0,again fain hand said dismayd understand,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+51,POEM0,he me is frere cheer this,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+52,POEM0,sake take breast all shall best,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+53,POEM0,now you please not that ease,1 1 2 3 3 2,1 2 3 4 5 3,A B C D E C
+54,POEM0,maid said frere tiding bring hear,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+55,POEM0,none alone grace thee me mace,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+56,POEM0,obey way clutch hence pence pouch,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+57,POEM0,there fear wood thief mischief good,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+58,POEM0,fist list blow down swoon overthrow,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+59,POEM0,man than slain raps claps again,1 1 2 3 3 2,1 1 1 2 2 1,A A A B B A
+60,POEM0,heart start about goth both clout,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+61,POEM0,tear hair fast lugging tugging last,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+62,POEM0,ground round stroke rumble tumble poke,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+63,POEM0,above shove last wife strife fast,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+64,POEM0,spy lie place hood agood face,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+65,POEM0,blind behind floor joll noul battledoor,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+66,POEM0,yet feet down rock knock crown,1 1 2 3 3 2,1 2 3 4 4 3,A B C D D C
+67,POEM0,mace face pain frap swap slain,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+68,POEM0,lift thrift stair threw adieu mayr,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+69,POEM0,arose suppose head ears fears afled,1 1 2 3 3 2,1 1 2 3 3 4,A A B C C D
+70,POEM0,lost cost near theeh me frere,1 1 2 3 3 2,1 1 2 3 4 2,A A B C D B
+71,POEM0,all shall began anywise advise man,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+72,POEM0,use refuse gone frere cheer chone,1 1 2 3 3 2,1 1 2 3 3 2,A A B C C B
+73,POEM1,confidence prosperity hence me be i lie,1 2 1 2 2 3 3,1 2 1 3 3 4 2,A B A C C D B
+74,POEM1,lineage king marriage thing reckoning ancestry lie,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+75,POEM1,gone fear none gere messenger remedy lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+76,POEM1,otherwise delice promise devynatrice wise prophecy lie,1 2 1 2 2 3 3,1 1 1 1 1 2 2,A A A A A B B
+77,POEM1,bitterness pain distress again sayne i lie,1 2 1 2 2 3 3,1 2 1 2 3 4 5,A B A B C D E
+78,POEM1,towers me yours see ye edify lie,1 2 1 2 2 3 3,1 2 3 2 2 2 2,A B C B B B B
+79,POEM1,lord combine concord resign mine supply lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+80,POEM1,margaret mind meet behind blind nye lie,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+81,POEM1,mother cheer nother fere dear cry lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+82,POEM1,adieu estate hue fortunate kate destiny lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B D D
+83,POEM1,katherine three mine vanity flee magnify lie,1 2 1 2 2 3 3,1 2 1 2 2 2 2,A B A B B B B
+84,POEM1,all chone shall alone one mercy lie,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+85,POEM2,auctoritie spye dignitie finally by sustinaunce ordinaunce,1 2 1 2 2 3 3,1 1 1 1 1 2 2,A A A A A B B
+86,POEM2,wonne last begonne fast overcast suffise wyse,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+87,POEM2,this boke nys loke forsoke them them,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+88,POEM2,vayne richesse payne distresse comfortlesse,1 2 1 2 2,1 2 1 2 2,A B A B B
+89,POEM3,mind ball kind all small play day,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+90,POEM3,delight feed flight steed indeed sweeter better,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+91,POEM3,might cupid aright pride side small thrall,1 2 1 2 2 3 3,1 2 1 3 3 4 4,A B A C C D D
+92,POEM3,hoar part therefore smart dart oppress business,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+93,POEM3,mishape wide escape magnified pride pain brain,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+94,POEM3,nothing round living confound ground i memory,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+95,POEM3,hand hour land honour flower eternal all,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+96,POEM3,eternity well be tell mobility degree brought nought,1 2 1 2 1 1 3 3,1 2 1 2 1 1 3 3,A B A B A A D D
+97,POEM4,fair smile repair beguile erewhile uniform storm,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+98,POEM4,servingman gat then that cat times rhymes,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+99,POEM5,alone forsake none take make many any,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+100,POEM5,god grave odd have gave thought naught,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+101,POEM5,company is thereby bliss miss estate infortunate,1 2 1 2 2 3 3,1 2 1 3 3 4 4,A B A C C D D
+102,POEM5,he disport be resort port sight delight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+103,POEM5,is been amiss clean seen pace grace,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+104,POEM5,favor wise behaviour devise arise prowl soul,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+105,POEM5,fervent fall content small therewithal get set,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+106,POEM5,content endure absent sure procure light sight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+107,POEM5,heart sustain smart pain fain take sake,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+108,POEM5,also glad woe bestead adread adversity thee,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+109,POEM5,be day he may say brought thought,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+110,POEM5,should may would always purvey bereaven heaven,1 2 1 2 2 3 3,1 2 1 3 2 4 4,A B A C B D D
+111,POEM5,least wait beast conceit strait near dear,1 2 1 2 2 3 3,1 2 1 3 2 4 4,A B A C B D D
+112,POEM5,picture magnificence cure reverence preeminence wurche church,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+113,POEM5,things hear praising clear manner vary contrary,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+114,POEM5,likewise praise comprise obeys ways blasphemy unreverently,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+115,POEM5,mind bent find excellent intent name same,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+116,POEM5,high ought magnify wrought nought devise likewise,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+117,POEM5,pale stalk ale talk walk fire desire,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+118,POEM5,take remembrance wake dance plesance remove love,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+119,POEM5,heart fear smart elsewhere tear be adversity,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+120,POEM5,breast meditation rest contemplation delectation fro woe,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+121,POEM5,obey appetite may delight night regard reward,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+122,POEM5,set endeavor let dissever never bind mind,1 2 1 2 2 3 3,1 2 1 3 3 4 4,A B A C C D D
+123,POEM5,move desirable love amiable serviceable more before,1 2 1 2 2 3 3,1 2 1 3 4 5 5,A B A C D E E
+124,POEM5,meed be speed he thee rood blood,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+125,POEM5,majesty one be alone moan guilt spilt,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+126,POEM5,judgment weigh punishment say aye stand hand,1 2 1 2 2 3 3,1 2 1 2 3 4 4,A B A B C D D
+127,POEM5,original wise all justice device dispense offence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+128,POEM5,sin be therein pardee he taketh maketh,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+129,POEM5,art dignity heart malignity benignity be thee,1 2 1 2 2 3 3,1 2 1 2 2 2 2,A B A B B B B
+130,POEM5,certain mind again kind find space grace,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+131,POEM5,alas dear trespass year peer preace increase,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+132,POEM5,power sufficiently hour testify mercy indulgence offence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B D D
+133,POEM5,love majesty above we be side wide,1 2 1 2 2 3 3,1 2 1 3 3 4 4,A B A C C D D
+134,POEM5,king goodness providing distress thankless wise vice,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+135,POEM5,heart egall astart thrall all desire afire,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+136,POEM5,life thence wife presence indulgence rather father,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+137,POEM6,way continual ave thrall shall sustain pain,1 2 1 2 2 3 3,1 2 3 4 4 5 5,A B C D D E E
+138,POEM6,woe wis also is this die perpetually,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+139,POEM6,vain delight captain fight right record lord,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+140,POEM6,grudge fight judge might delight behavior savoir,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+141,POEM6,strive motion five devotion potion therewithal gall,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+142,POEM6,forbear then were when bondman thee tree,1 2 1 2 2 3 3,1 2 1 2 3 4 4,A B A B C D D
+143,POEM6,wroth best both thrests breast disdain pain,1 2 1 2 2 3 3,1 2 1 3 2 4 4,A B A C B D D
+144,POEM6,devil by evil apply valiantly dart part,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+145,POEM6,must armor trust savior power out about,1 2 1 2 2 3 3,1 2 1 3 4 5 5,A B A C D E E
+146,POEM6,evil confidence devil reverence diligence plaints saints,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+147,POEM6,tarry hour adversary devour tower catch watch,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+148,POEM6,stand might hand flight sight contract act,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+149,POEM6,mind pride blind guide applied his is,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+150,POEM6,preace victory peace mercy enemy battle assail,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+151,POEM6,obtain gear again fear bear memory victory,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+152,POEM6,sure vice endure dice wise sin therein,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+153,POEM6,beginning babylon thing stone bone sore more,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+154,POEM6,war sour far conqueror pleasure within sin,1 2 1 2 2 3 3,1 2 1 3 2 4 4,A B A C B D D
+155,POEM6,negligence victory concupiscence unadvisedly apply delight fight,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+156,POEM6,known experience overthrown diligence defense rest conquest,1 2 1 2 2 3 3,1 2 1 3 3 4 4,A B A C C D D
+157,POEM6,nothing paul being extol soul provide pride,1 2 1 2 2 3 3,1 2 3 4 5 6 6,A B C D E F F
+158,POEM6,love chose above depose close reprief mischief,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+159,POEM6,gloss power cross hour honor great meat,1 2 1 2 2 3 3,1 2 1 2 3 4 4,A B A B D E E
+160,POEM7,hast sight taste delight appetite cast past,1 2 1 2 2 3 3,1 2 1 2 2 1 1,A B A B B A A
+161,POEM7,do remain thereto contain restrain behind mind,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+162,POEM7,buy advise by enemies merchandise reckoning thing,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B D D
+163,POEM7,confidence sin experience begin lin shall wall,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+164,POEM7,day care play fare unaware enterprise wise,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+165,POEM7,therefore case more space grace offence hence,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+166,POEM7,thoroughfare host bare cost ghost dissever forever,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+167,POEM7,reasonable figure intolerable endure nature equal thrall,1 2 1 2 2 3 3,1 2 1 2 2 3 4,A B A B B C D
+168,POEM7,joy fantasies toy devise warrantise find mind,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+169,POEM7,both his wroth this bliss be thee,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B D D
+170,POEM7,friest pain christ vein twain wrought bought,1 2 1 2 2 3 3,1 2 3 2 2 4 4,A B C B B D D
+171,POEM7,might use sight accuse refuse eftsoon done,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+172,POEM0,spin mouse thin,1 2 1,1 2 1,A B A
+173,POEM0,house pain souse,1 2 1,1 2 1,A B A
+174,POEM0,rain plight remain,1 2 1,1 2 1,A B A
+175,POEM0,dight bean night,1 2 1,1 2 1,A B A
+176,POEM0,glean flood clean,1 2 1,1 2 1,A B A
+177,POEM0,food beguile good,1 2 1,1 2 1,A B A
+178,POEM0,mile dry defile i,1 2 1 2,1 2 1 3,A B A C
+179,POEM1,last waste begun past done,1 1 2 1 2,1 1 2 1 2,A A B A B
+180,POEM1,none stone soon moan done,1 1 2 1 2,1 1 1 1 1,A A A A A
+181,POEM1,cruelly continually affection remedy done,1 1 2 1 2,1 1 2 1 3,A A B A C
+182,POEM1,got shot won forgot done,1 1 2 1 2,1 1 2 1 2,A A B A B
+183,POEM1,disdain pain sun plain done,1 1 2 1 2,1 1 2 1 2,A A B A B
+184,POEM1,old cold moon told done,1 1 2 1 2,1 1 2 1 2,A A B A B
+185,POEM1,repent spent swoon lent done,1 1 2 1 2,1 1 2 1 2,A A B A B
+186,POEM1,last waste begun past done,1 1 2 1 2,1 1 2 1 2,A A B A B
+187,POEM2,plain smart remain overthwart,1 2 1 2,1 2 1 2,A B A B
+188,POEM2,heart mind smart find,1 2 1 2,1 2 1 2,A B A B
+189,POEM2,assured trust endured lust,1 2 1 2,1 2 1 2,A B A B
+190,POEM3,thus shame blame grame thus nay,1 2 2 2 1 3,1 2 2 2 1 3,A B B B A C
+191,POEM3,thus long among strong thus nay,1 2 2 2 1 3,1 2 2 2 1 3,A B B B A C
+192,POEM3,thus heart depart smart thus nay,1 2 2 2 1 3,1 2 2 2 1 3,A B B B A C
+193,POEM3,thus pitye thee cruelty thus nay,1 2 2 2 1 3,1 2 3 2 1 4,A B C B A D
+194,POEM4,array repast play waste taste hold gold,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+195,POEM5,seek chamber meek remember danger range change,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C
+196,POEM5,otherwise special guise fall small kiss this,1 2 1 2 2 3 3,1 2 1 3 3 1 4,A B A C C A D
+197,POEM5,waking gentleness forsaking goodness newfangleness served deserved,1 2 1 2 2 3 3,1 2 1 2 2 3 3,A B A B B C C

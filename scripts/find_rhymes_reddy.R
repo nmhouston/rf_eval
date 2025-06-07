@@ -1,4 +1,7 @@
-#find_rhymes_reddy_202502   
+#find_rhymes_reddy 
+
+#############
+
 #run Rhymefindr script over the Reddy data  
 
 ####install libraries and define input, output, and dictionary folders####
@@ -8,9 +11,9 @@ library(tidyverse)
 library(stringi)
 library(data.table)  
 
-inputdir<-"C:/data/JCLS2025/reddy/data/"
-outputdir<-"C:/data/JCLS2025/reddy/output/"
-dictionarydir<-"C:/data/walker/output/"
+inputdir<-"C:/data/rf_eval/reddy/data/"
+outputdir<-"C:/data/rf_eval/reddy/output/"
+dictionarydir<-"C:/data/Rhymefindr/dictionary/"
 
 ##### function from Gaston Sanchez, Handling Strings with R####
 #https://www.gastonsanchez.com/r4strings/
@@ -280,6 +283,6 @@ for (b in 1:length(texts_paths)){
     this_tib<-tibble(textid, words, sylls, ltrvec, perf, isrhymed)
     rhymedata.df<-bind_rows(rhymedata.df, this_tib)
   }
-  write_csv(rhymedata.df, paste0(outputdir, texts_names[b], ".csv"))
+  write_csv(rhymedata.df, paste0(outputdir, texts_names[b], "_rf.csv"))
   
 }

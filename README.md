@@ -11,15 +11,16 @@ The folders in the repo match the structure on the computer used to run the R sc
  
  - (reddy): Contains the raw data files downloaded from Reddy's repo. See the data memo for details.
 	 - (data): Reddy data files output as csv from prepare_reddy_data
-	 - (eval): outputs from evaluate_reddy, examine_reddy_data_errors, and accuracy_reddy  
 	 - (output): rhyme analysis output from find_rhymes_reddy
+	 - (eval): outputs from prepare_for_evaluation, evaluate_RK_method, evaluate_Plechac_method, and examine_reddy_data_errors
 
  - (scripts)  Scripts were run in this order:
-
-	- prepare_reddy_data_202502 (prepare the text files as csv)  
-	 - find_rhymes_reddy_202502 (run Rhymefindr)  
-	 - evaluate_reddy_202502 (compare the Rhymefindr results with the gold standard annotations)  
-	 - examine_reddy_data_errors_202502 (collect the data records with errors and find their distribution over the chronological periods)  
-	 - accuracy_reddy_202502 (calculate mean accuracy for each chronological file) 
+	 - prepare_reddy_data (prepare the raw text files as csv)  
+	 - find_rhymes_reddy (run Rhymefindr)  
+	 - prepare_for_evaluation (combine gold standard and Rhymefindr vectors to use in evaluation scripts)
+	 - evaluate_RK_method (compare Rhymefindr results with the gold standard annotations using the methods in Reddy and Knight 2011) 
+	 - evaluate_Plechac_method (compare Rhymefindr results with the gold standard annotations using the methods in Plechac 2018)
+	 - examine_reddy_data_errors (collect the data records with errors and find their distribution over the chronological periods)  
+ 
 
 

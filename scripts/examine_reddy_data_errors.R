@@ -1,11 +1,13 @@
-#examine_reddy_data_errors_202502
+#examine_reddy_data_errors
+
+###################
 #collect the records with errors found in the Reddy data files and find 
 #their distribution over the chronological periods
 
 library(tidyverse)
 library(fs)
-datadir<-"C:/data/JCLS2025/reddy/data/"
-evaldir<-"C:/data/JCLS2025/reddy/eval/"
+datadir<-"C:/data/rf_eval/reddy/data/"
+evaldir<-"C:/data/rf_eval/reddy/eval/"
 texts_paths<-path_filter(dir_ls(evaldir), glob="*_error.csv")
 texts_names<-path_ext_remove(path_file(texts_paths))
 texts_prefix<-str_remove_all(texts_names, "_error")
